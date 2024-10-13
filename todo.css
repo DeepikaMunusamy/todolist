@@ -1,0 +1,38 @@
+
+ body{
+    text-align: center;
+    margin-top: 100px;
+    
+ }
+#list-container{
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+    box-shadow: inset;
+   
+    
+}
+#div{
+    height:300px;
+    width: 300px;
+    border: 1px solid;
+    border-radius:30px;
+    border-color: black;
+    background-color: violet;
+    background:linear-gradient(90deg, rgb(145, 120, 209) 0%, rgba(31,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+#one{
+    margin-top: 30px;
+}
+h1{
+    color:skyblue;
+}
+#btn{
+    background-color: red;
+    
+}
+#del{
+    background-color: red;
+    color: black;
+}
